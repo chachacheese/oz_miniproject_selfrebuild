@@ -75,8 +75,6 @@ macOS 자동 생성 파일로, 분석과는 무관합니다.
 	•	Python
 	•	pandas, numpy
 	•	matplotlib, seaborn
-	•	scipy (통계 검정)
-	•	koreanize-matplotlib
 
 ⸻
 
